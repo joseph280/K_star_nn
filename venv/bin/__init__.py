@@ -1,0 +1,1 @@
+from venv.bin.KnnAdaptativeNeighborsWeightsAlgorithm import knn
